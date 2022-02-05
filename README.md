@@ -12,7 +12,7 @@
 </p>g
 WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sharonpathuz/Queen-Alexa.git
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sharonpathuz/Queen-Alexa/blob/main/README.md
           
 # ```ALEXA-BUG-BOT```
 <p align="center">
